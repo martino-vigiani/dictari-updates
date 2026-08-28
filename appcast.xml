@@ -3,6 +3,18 @@
     <channel>
         <title>Dictari</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Fri, 28 Aug 2026 21:02:42 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/martino-vigiani/dictari-updates/releases/download/updates/Dictari-0.1.2.dmg" length="14075428" type="application/octet-stream" sparkle:edSignature="18/WTx4B+vt9l4EOOkjlk3S9itEkp+CaA32y1G7dHhFy6FSw8LEJ049rFC+XsrIvXBp5HKz1kSrnLPdYnh94BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/martino-vigiani/dictari-updates/releases/download/updates/Dictari3-2.delta" sparkle:deltaFrom="2" length="261554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Q8zILNGwWYiC3IJH7uH1FdKVK1PMmeFlCMo97ZNAckq+rsSsScZLa1T84q+ya/2IRHuVG2s0aohai+Cdc9n0AA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Fri, 28 Aug 2026 20:54:22 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
