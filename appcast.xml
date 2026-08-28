@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Dictari</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Fri, 28 Aug 2026 20:54:22 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/martino-vigiani/dictari-updates/releases/download/updates/Dictari-0.1.1.dmg" length="14076026" type="application/octet-stream" sparkle:edSignature="4//5NO8Ows+dNsAIWWzf+HmHL5TMlt85ZAvGu7EEj4uDkq2RHV4ccW7yDo7KhuYTNDMnm+vhFekWFHM6uZTiCQ=="/>
+        </item>
+    </channel>
+</rss>
